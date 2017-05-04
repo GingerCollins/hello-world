@@ -1,2 +1,2 @@
 # hello-world
-First Repository
+I am learning data analytics at Udacity.com. I am learning python, r, r studio, pycharm and data analytics.
